@@ -1,5 +1,5 @@
 {
-  "name": "tailwinders_react-select",
+  "name": "@types/tailwinders_react-select",
   "version": "1.0.0",
   "description": "type deceleration for @tailwinders/react-select",
   "main": "index.d.ts",
