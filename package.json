@@ -1,0 +1,19 @@
+{
+  "name": "tailwinders_react-select",
+  "version": "1.0.0",
+  "description": "type deceleration for @tailwinders/react-select",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tailwinders/types_react-select.git"
+  },
+  "author": "VimLeSai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tailwinders/types_react-select/issues"
+  },
+  "homepage": "https://github.com/tailwinders/types_react-select#readme"
+}
